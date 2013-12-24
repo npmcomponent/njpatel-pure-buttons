@@ -1,0 +1,17 @@
+{
+  "name": "pure-buttons",
+  "repo": "njpatel/pure-buttons",
+  "description": "A small CSS module for a button that you can use in every web project. http://purecss.io/buttons",
+  "version": "3.0.0",
+  "keywords": [
+    "pure",
+    "button",
+    "buttons",
+    "css",
+    "yui"
+  ],
+  "license": "BSD",
+  "styles": [
+    "buttons.css"
+  ]
+}
